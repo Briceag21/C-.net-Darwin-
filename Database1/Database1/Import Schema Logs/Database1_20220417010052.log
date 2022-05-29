@@ -1,0 +1,87 @@
+17.04.2022 16:00:52	This log contains information about the import schema operation into project 'Database1' on computer 'DESKTOP-OEI8MF6' by user 'drago'.
+17.04.2022 16:00:55	Import of database schema has started.
+17.04.2022 16:01:09	Gathering database credentials
+17.04.2022 16:01:09	Gathering database options
+17.04.2022 16:01:09	Gathering generic database scoped configuration option
+17.04.2022 16:01:09	Gathering users
+17.04.2022 16:01:09	Gathering roles
+17.04.2022 16:01:09	Gathering application roles
+17.04.2022 16:01:10	Gathering role memberships
+17.04.2022 16:01:10	Gathering filegroups
+17.04.2022 16:01:10	Gathering full-text catalogs
+17.04.2022 16:01:10	Gathering assemblies
+17.04.2022 16:01:10	Gathering certificates
+17.04.2022 16:01:10	Gathering asymmetric keys
+17.04.2022 16:01:10	Gathering symmetric keys
+17.04.2022 16:01:10	Gathering encrypted symmetric keys
+17.04.2022 16:01:10	Gathering schemas
+17.04.2022 16:01:10	Gathering XML schema collections
+17.04.2022 16:01:10	Gathering user-defined data types
+17.04.2022 16:01:10	Gathering user-defined types
+17.04.2022 16:01:10	Gathering table types
+17.04.2022 16:01:10	Gathering unique keys for table types
+17.04.2022 16:01:10	Gathering primary keys for table types
+17.04.2022 16:01:10	Gathering indexes for table types
+17.04.2022 16:01:27	Gathering check constraints for table types
+17.04.2022 16:01:27	Gathering default constraints for table types
+17.04.2022 16:01:27	Gathering partition functions
+17.04.2022 16:01:27	Gathering partition schemes
+17.04.2022 16:01:27	Gathering functions
+17.04.2022 16:01:27	Gathering encrypted functions
+17.04.2022 16:01:27	Gathering aggregates
+17.04.2022 16:01:27	Gathering procedures
+17.04.2022 16:01:53	Gathering encrypted procedures
+17.04.2022 16:01:53	Gathering tables
+17.04.2022 16:02:18	Gathering primary keys
+17.04.2022 16:02:18	Gathering unique constraints
+17.04.2022 16:02:18	Gathering foreign keys
+17.04.2022 16:02:18	Gathering default constraints
+17.04.2022 16:02:18	Gathering check constraints
+17.04.2022 16:02:18	Gathering views
+17.04.2022 16:02:18	Gathering encrypted views
+17.04.2022 16:02:18	Gathering indexes
+17.04.2022 16:02:18	Gathering statistics
+17.04.2022 16:02:18	Gathering full-text index stoplists
+17.04.2022 16:02:18	Gathering search property lists
+17.04.2022 16:02:18	Gathering search properties
+17.04.2022 16:02:18	Gathering full-text indexes
+17.04.2022 16:02:18	Gathering column store indexes
+17.04.2022 16:02:18	Gathering spatial indexes
+17.04.2022 16:02:18	Gathering XML indexes
+17.04.2022 16:02:18	Gathering Selective XML indexes
+17.04.2022 16:02:18	Gathering encrypted triggers
+17.04.2022 16:02:18	Gathering triggers
+17.04.2022 16:02:18	Gathering encrypted and clr ddl triggers
+17.04.2022 16:02:18	Gathering ddl triggers
+17.04.2022 16:03:22	Creating edge constraints
+17.04.2022 16:03:22	Gathering synonyms
+17.04.2022 16:04:21	Gathering defaults
+17.04.2022 16:04:21	Gathering data constraint uddt bindings
+17.04.2022 16:04:54	Gathering rules
+17.04.2022 16:04:54	Gathering data constraint uddt bindings
+17.04.2022 16:04:55	Gathering message types
+17.04.2022 16:04:55	Gathering queues
+17.04.2022 16:04:55	Gathering contracts
+17.04.2022 16:04:55	Gathering services
+17.04.2022 16:04:56	Gathering event notifications
+17.04.2022 16:04:56	Gathering remote service bindings
+17.04.2022 16:04:56	Gathering broker priorities
+17.04.2022 16:04:56	Gathering signatures
+17.04.2022 16:04:56	Gathering data compression options
+17.04.2022 16:04:56	Gathering sequence types
+17.04.2022 16:04:56	Gathering security policies
+17.04.2022 16:04:56	Gather column encryption keys
+17.04.2022 16:04:56	Gathering column master keys
+17.04.2022 16:04:56	Gathering external data sources
+17.04.2022 16:04:56	Gathering external file formats
+17.04.2022 16:04:57	Gathering external tables
+17.04.2022 16:04:57	Gathering extended properties
+17.04.2022 16:04:58	Gathering assemblies
+17.04.2022 16:05:01	Gathering credentials
+17.04.2022 16:05:01	Gathering logins
+17.04.2022 16:05:01	Gathering server audits
+17.04.2022 16:05:06	Scanning project for duplicate elements
+17.04.2022 16:05:06	Finished duplicate element processing
+17.04.2022 16:05:07	Finished importing database.
+17.04.2022 16:05:07	A summary of the import was saved to the following location: C:\Users\drago\source\repos\Database1\Database1\Import Schema Logs\Database1_20220417010052.log
+17.04.2022 16:05:07	Click Finish to continue...
